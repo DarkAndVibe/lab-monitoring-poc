@@ -17,11 +17,13 @@
 - Python: 3.14.3 установлен
 - Задача: написать скрипт генерации лабораторных данных
 
-## Стек технологий
-- Python, PostgreSQL, Git
-- Docker, K8s (Minikube)
-- Ollama, FastAPI, n8n
-- CI/CD, мониторинг
+## Технологический стек
+- Этап 1: Python, PostgreSQL, Git, SQL
+- Этап 2: Docker, Docker Compose
+- Этап 3: Kubernetes (Minikube), Helm, kubectl
+- Этап 4: LLM (Ollama, Llama/Mistral), FastAPI, LangChain
+- Этап 5: n8n, CI/CD (GitHub Actions), мониторинг
+- Этап 6: Сборка проекта, документация, резюме
 
 ## Последние обсуждения
 Текущая задача: изучаю Python на Stepik, пишу скрипт генерации лабораторных данных.
